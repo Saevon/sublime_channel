@@ -1,0 +1,26 @@
+{
+	"schema_version": "3.0.0",
+
+	"packages": [
+		{
+			"name": "Open Search Result",
+			"details": "https://github.com/Saevon/sublime-open-search-result",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+    		{
+			"name": "Saevon/Sublime Wrap Plus",
+			"details": "https://github.com/Saevon/Sublime-Wrap-Plus",
+			"releases": [
+				{
+					"sublime_text": "*",
+					"tags": true
+				}
+			]
+		},
+	]
+}
