@@ -3,7 +3,7 @@
 
 	"packages": [
 		{
-			"name": "Open Search Result",
+			"name": "Open Search Result2",
 			"details": "https://github.com/Saevon/sublime-open-search-result",
 			"releases": [
 				{
@@ -13,7 +13,7 @@
 			]
 		},
     		{
-			"name": "Saevon/Sublime Wrap Plus",
+			"name": "Saevon Sublime Wrap Plus",
 			"details": "https://github.com/Saevon/Sublime-Wrap-Plus",
 			"releases": [
 				{
